@@ -7,7 +7,21 @@
   font-weight: 400;
   letter-spacing: 0.03em;
 }
-
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ margin: 0;
+ padding: 0;
+}
 .container {
   width: 1170px;
   margin: 0 auto;
